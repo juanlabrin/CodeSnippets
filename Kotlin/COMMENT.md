@@ -1,1 +1,1 @@
-In this section there are code snippets for Kotlin
+Kotlin Codes Snippets
